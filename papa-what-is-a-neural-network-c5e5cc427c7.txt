@@ -158,7 +158,13 @@ Unbecoming
 
 --
 
-926
+925
+
+AL Anany
+
+--
+
+169
 
 The PyCoach
 
@@ -168,7 +174,23 @@ Artificial Corner
 
 --
 
-568
+570
+
+Nick Hilton
+
+--
+
+148
+
+Zulie Rane
+
+in
+
+The Startup
+
+--
+
+914
 
 Maximilian Vogel
 
@@ -178,25 +200,7 @@ MLearning.ai
 
 --
 
-104
-
-Mirijam Missbichler
-
---
-
-150
-
-AL Anany
-
---
-
-141
-
-Nick Wignall
-
---
-
-323
+107
 
 Help
 
